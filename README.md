@@ -1,1 +1,1 @@
-# weather-web-app-project
+# weather-web-app
